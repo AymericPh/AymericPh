@@ -1,5 +1,9 @@
 ### Hi there 👋
 
+Welcome,
+
+
+You can find here all my personal or collaborative projects
 <!--
 **AymericPh/AymericPh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
